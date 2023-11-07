@@ -1,0 +1,14 @@
+! Title: Arthur's Filters
+! Last modified: Mon, 06 Nov 2023 06:54:07 -0006
+! Expires: 7 days
+! Description: Miscellaneous things to remove annoyances not covered by built-in filters
+
+! remove ads in github explore
+github.com##article.my-4.color-bg-default.color-shadow-small.rounded.border
+
+! remove banner on wolframalpha that supports cheating and promotes wolframalpha pro
+www.wolframalpha.com##.ijfDjr.sc-83b9d75e-0.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
+
+! remove fandom age overlay(you shouldnt still be using fandom cause it has turned into a piece of 💩 but whatever)
+fandom.com##.AgeGateDialog-module_overlay__aPtu5.Modal_overlay__7pQwi
+fandom.com##.AgeGateDialog-module_container__-1Zak.Modal_content__95AHF
